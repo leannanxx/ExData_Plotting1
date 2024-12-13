@@ -1,4 +1,4 @@
-# Reading, naming and subsetting power consumption data
+# Reading power consumption data
 power_data <- read.table("householdpower/household_power_consumption.txt", 
                     header = TRUE, sep = ";", dec = ".")
 
